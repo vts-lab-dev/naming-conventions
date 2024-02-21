@@ -79,7 +79,8 @@ Reference: [Cloud Conformity](https://www.trendmicro.com/cloudoneconformity-stag
 `security-group-ap-northeast-1-prod-web-app-stack`  
 `security-group-ap-northeast-2-dev-big-data-stack`  
 
-
+&nbsp;
+&nbsp;
 
 ## EC2 Instance Naming Conventions
 ### Default Pattern Format
