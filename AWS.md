@@ -43,13 +43,13 @@ Reference: [Cloud Conformity](https://www.trendmicro.com/cloudoneconformity-stag
 `(public|private)` for public and private subnet.
 
 **EnvironmentCode**  
-`(dev|test|stg|prod|mgmt)` for development, test, staging, production, management.  
+`(dev|test|stg|prod)` for development, test, staging, production.  
 
 **ApplicationStackCode**  
 `([a-z0-9\-]+)` for the application stack that runs within the VPC network. 
 
 ### RegExp
-`^subnet-(us-east-1|us-west-1|us-west-1|eu-west-1|eu-west-2|eu-central-1| ap-northeast-1|ap-northeast-2|ap-southeast-1|ap-southeast-2)-([1-2]{1})([a-c]{1})-(public|private)-(dev|test|stg|prod|mgmt)-([a-z0-9\-]+)$`
+`^subnet-(us-east-1|us-west-1|us-west-1|eu-west-1|eu-west-2|eu-central-1| ap-northeast-1|ap-northeast-2|ap-southeast-1|ap-southeast-2)-([1-2]{1})([a-c]{1})-(public|private)-(dev|test|stg|prod)-([a-z0-9\-]+)$`
 
 ### Default Pattern Examples
 `subnet-ap-northeast-1-1a-public-prod-web-app-stack`  
