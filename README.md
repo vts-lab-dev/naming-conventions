@@ -1,2 +1,2 @@
-# naming-conventions
-Naming conventions used in our projects
+# Naming Conventions
+This repository contains documents to the naming conventions of our projects.
