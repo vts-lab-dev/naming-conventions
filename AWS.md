@@ -1,7 +1,8 @@
 # AWS Naming Convention
 Reference: [Cloud Conformity](https://www.trendmicro.com/cloudoneconformity-staging/knowledge-base/aws/)
 
-
+&nbsp;
+&nbsp;
 
 ## VPC Naming Conventions
 ### Default Pattern Format
@@ -24,7 +25,8 @@ Reference: [Cloud Conformity](https://www.trendmicro.com/cloudoneconformity-stag
 `vpc-ap-northeast-1-prod-web-app-stack`  
 `vpc-ap-northeast-2-dev-big-data-stack`  
 
-
+&nbsp;
+&nbsp;
 
 ## Subnet Naming Conventions
 ### Default Pattern Format
@@ -53,7 +55,8 @@ Reference: [Cloud Conformity](https://www.trendmicro.com/cloudoneconformity-stag
 `subnet-ap-northeast-1-1a-public-prod-web-app-stack`  
 `subnet-ap-northeast-1-1c-private-dev-database-stack`  
 
-
+&nbsp;
+&nbsp;
 
 ## Security Group Naming Conventions
 ### Default Pattern Format
@@ -99,7 +102,8 @@ Reference: [Cloud Conformity](https://www.trendmicro.com/cloudoneconformity-stag
 `ec2-ap-northeast-1-prod-web-app-stack`  
 `ec2-ap-northeast-2-dev-big-data-stack`  
 
-
+&nbsp;
+&nbsp;
 
 ## PEM Key Naming Conventions
 ### Default Pattern Format
